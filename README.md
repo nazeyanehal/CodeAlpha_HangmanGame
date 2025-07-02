@@ -1,20 +1,28 @@
-CodeAlpha_HangmanGame
-🎯 Internship Project — Python Programming
-CodeAlpha Internship | July–October 2025
+# CodeAlpha Hangman Game 🎯
 
-📌 Project Overview
-This is a simple console-based Hangman game built in Python. It was developed as part of the CodeAlpha Internship Program to demonstrate core programming skills and logical thinking.
+This is a simple **console-based Hangman game** developed for the CodeAlpha Python Programming Internship. The project demonstrates core Python skills and logical thinking in a fun way.
 
-The game randomly selects a word from a predefined list, and the player has to guess it letter by letter with a maximum of 6 incorrect tries.
+---
 
-🚀 Features
-✅ Random word selection
-✅ 6 wrong tries allowed
-✅ Easy-to-read word display
-✅ Checks for repeated guesses
-✅ Simple and user-friendly console interface
+## 🚀 Features
 
-🛠️ Tech Stack
-Python 3
+- Random word selection from a fixed list  
+- 6 incorrect tries allowed  
+- Tracks and shows guessed letters  
+- Simple, user-friendly console interface  
 
-Standard Python libraries (random)
+---
+
+## 🛠️ Tech Stack
+
+- Python 3
+- Standard Python libraries (`random`)
+
+---
+
+## 📂 How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/nazeyanehal/CodeAlpha_HangmanGame.git
