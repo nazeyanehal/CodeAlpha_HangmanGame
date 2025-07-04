@@ -26,3 +26,11 @@ This is a simple **console-based Hangman game** developed for the CodeAlpha Pyth
 
 ```bash
 git clone https://github.com/nazeyanehal/CodeAlpha_HangmanGame.git
+
+Navigate to the folder:
+
+cd CodeAlpha_HangmanGame
+
+Run the game:
+
+python hangman.py
