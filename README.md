@@ -1,6 +1,6 @@
-# CodeAlpha Hangman Game 🎯
+# Hangman Game 🎯
 
-This is a simple **console-based Hangman game** developed for the CodeAlpha Python Programming Internship. The project demonstrates core Python skills and logical thinking in a fun way.
+This is a simple **console-based Hangman game** developed for the **CodeAlpha Python Programming Internship**. The project demonstrates core Python skills and logical thinking in a fun way.
 
 ---
 
